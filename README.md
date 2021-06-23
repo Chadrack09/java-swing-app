@@ -1,7 +1,7 @@
 ## Java Swing App
 
-Java Swing application with swing components
-The Worker class is an object of workers
+######Java Swing application with swing components
+######The Worker class is the blueprint of all worker objects
 
 ```java
   private void addComponents() {
@@ -36,15 +36,6 @@ The Worker class is an object of workers
     panel_center.add(hiding_3);
     panel_center.add(first_name);
     panel_center.add(fn_text_field);
-    panel_center.add(hiding_4);
-    panel_center.add(last_name);
-    panel_center.add(ln_text_field);
-    panel_center.add(hiding_5);
-    panel_center.add(gender);
-    panel_center.add(radio_panel);
-    panel_center.add(hiding_6);
-    panel_center.add(pension);
-    panel_center.add(checkbox_one);
     label_logo = new JLabel(new ImageIcon("logo.png")); 
     panel_center.add(label_logo);
   }
