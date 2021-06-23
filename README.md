@@ -1,7 +1,7 @@
 ## Java Swing App
 
-######Java Swing application with swing components
-######The Worker class is the blueprint of all worker objects
+###### Java Swing application with swing components
+###### The Worker class is the blueprint of all worker objects
 
 ```java
   private void addComponents() {
